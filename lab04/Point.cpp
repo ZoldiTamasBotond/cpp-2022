@@ -1,6 +1,3 @@
-//
-// Created by komuves.david.mark on 10/11/2021.
-//
 
 #include <iostream>
 #include <vector>

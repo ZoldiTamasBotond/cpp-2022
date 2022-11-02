@@ -1,6 +1,3 @@
-//
-// Created by komuves.david.mark on 10/18/2021.
-//
 
 #ifndef LAB04_MATRIX_H
 #define LAB04_MATRIX_H

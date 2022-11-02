@@ -1,6 +1,3 @@
-//
-// Created by komuves.david.mark on 10/18/2021.
-//
 
 #include "Matrix.h"
 #include <iostream>
@@ -135,7 +132,7 @@ istream & operator>>(istream& is, Matrix& mat){
     return is;
 }
 
-ostream & operator<<(ostream& os, const Matrix& mat) {
+ostream &operator<<(ostream& os, const Matrix& mat) {
     os<<"{";
 
     for(int i=0;i<mat.mRows;++i){

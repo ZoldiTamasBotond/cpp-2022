@@ -1,6 +1,3 @@
-//
-// Created by Golden on 2021-10-25.
-//
 
 #ifndef LAB06_POLYNOMIAL_H
 #define LAB06_POLYNOMIAL_H

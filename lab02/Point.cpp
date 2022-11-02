@@ -1,6 +1,3 @@
-//
-// Created by komuves.david.mark on 9/27/2021.
-//
 
 #include <iostream>
 #include <math.h>

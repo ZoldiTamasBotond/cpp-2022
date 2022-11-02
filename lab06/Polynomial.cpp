@@ -1,6 +1,3 @@
-//
-// Created by Golden on 2021-10-25.
-//
 
 #include "Polynomial.h"
 

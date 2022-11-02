@@ -1,6 +1,3 @@
-//
-// Created by komuves.david.mark on 10/11/2021.
-//
 
 #ifndef LAB03_POINTSET_H
 #define LAB03_POINTSET_H
